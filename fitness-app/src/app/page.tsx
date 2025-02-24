@@ -31,7 +31,7 @@ export default function Home() {
           </Link>
         </Section>
         <Section
-          header="моя приложуха"
+          header="моя приложуха1"
           footer="These pages help developer to learn more about current launch information"
         >
           <Link href="/init-data">
